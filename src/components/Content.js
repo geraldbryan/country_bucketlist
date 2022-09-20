@@ -1,7 +1,7 @@
 function Content(props){
     return(
         <div className="card">
-            <img src={`../images/${props.image}`} className="card--img" alt="place photo"></img>
+            <img src={`../images/${props.image}`} className="card--img" alt="place"></img>
             <div className="card--details">
                 <div>
                     <i style={{ color: "#f55a5a"}} className="fa-solid fa-location-dot pinpoint"></i>
