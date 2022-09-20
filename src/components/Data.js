@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         id: 1,
         country: "United Kingdom",
@@ -45,3 +45,5 @@ export default [
         description: "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island —and over 700 smaller islands. It is the sixth-largest island country by area, covering 268,021 square kilometres."
     }
 ]
+
+export default data;
